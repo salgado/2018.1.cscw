@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+     <title>SEMANA 7 - GITHUB</title>
+     <!-- Bootstrap CSS -->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+
+
+
+ <body>
+  <!-- Conteúdo -->
+  <h1></h1>
+  <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+	<img width="150px" height="250px" src="Buddy.jpg"/> 
+    <h1 class="display-3">Daniel Campanha - CSCW</h1>
+  </div>
+</div>
+  <div class="container">
+
+    <ul class="list-group">
+      <li class="list-group-item active">Trabalhos Realizados CSCW - DCampanha</li>
+      <li class="list-group-item"> Semana 3 - CrowdSourcing -----> Link : https://docs.google.com/presentation/d/1ZIKsuYLBlkMpI1jZMo1A5--TE7reHiIVgn8rQF-lZ3c/edit?usp=sharing</li>
+      <li class="list-group-item"> Semana 4 - Gamification -----> Link : https://docs.google.com/document/d/11E-hO4-yyd0oP44x4hqrE2y3LVXeZ5inM-85zObiJu0/edit?usp=sharing</li>
+      <li class="list-group-item"> Semana 5 - Computação Ubiqua -----> Link : https://drive.google.com/open?id=18ZXdIxv1DX1ClsPFKKkZqewF_wDe7-IXOFMjtfB5pmU&authuser=0</li>
+      <li class="list-group-item"> Semana 6 - Tutorial do GitHub -----> Link : </li>
+      <li class="list-group-item"> </li>
+      <li class="list-group-item"> </li>
+      <li class="list-group-item"> </li>
+      <li class="list-group-item"> </li>
+      <li class="list-group-item"> </li>
+    </ul>
+
+  </div>
+
+ </body>
+ </html>
