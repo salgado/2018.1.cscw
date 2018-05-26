@@ -34,7 +34,7 @@ Trabalho em grupo (de 1 a 3 pessoas).
 - Logotipo Learnpedia  
 
 
-3 - Após escolher seu tema e capítulo, atualize o arquivo [grupos.md](https://github.com/2018.1.cscw/trabalhoav2/blob/master/grupos.md) com sua escolha (não pode haver capitulos de temas já escolhido por outras equipes.
+3 - Após escolher seu tema e capítulo, atualize o arquivo [grupos.md](https://github.com/salgado/2018.1.cscw/blob/master/trabalhoav2/grupos.md) com sua escolha (não pode haver capitulos de temas já escolhido por outras equipes.
 
 5 - Criar um quadro SCRUM no Trello com o andamento das atividades da equipe.
 
@@ -54,5 +54,5 @@ Trabalho em grupo (de 1 a 3 pessoas).
 
 ### Links importantes:
 
- * [Grupos](https://github.com/2018.1.cscw/trabalhoav2/blob/master/grupos.md) Formação dos grupos  
+ * [Grupos](https://github.com/salgado/2018.1.cscw/blob/master/trabalhoav2/grupos.md) Formação dos grupos  
  
