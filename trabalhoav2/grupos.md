@@ -2,10 +2,10 @@ Grupos, temas e capítulos
 --------------------------
 Grupo 1:   
 ---------  
-Componentes: Aluno XXX - loginGithub / Aluno YYY - loginGithub  
-Tema: **TemaEscolhido**  
+Componentes: Wallace Freixo - wallacefreixo / Lo Ditzz - loditzz / André Chang - changkapp
+Tema: Google Drive  
 Capítulo/título do vídeo :
-1 - Capitulo escolhido 1
-2 - Capitulo escolhido 2
-3 - Capitulo escolhido 3
+1 - Criar conta no google drive
+2 - Criar e compartilhar pastas
+3 - Trabalhar offline
 
