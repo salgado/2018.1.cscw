@@ -29,3 +29,13 @@ Capítulo/título do vídeo :
 1 - Criar uma turma e comunicação com a turma.
 2 - Corrigir provas e atividades, criar perguntas.
 3 - Linha do tempo (mural)
+
+Grupo 4:   
+---------  
+Componentes: Luiz Filippe - filippeff / Daniel Guimaraes - Daniel5894 / Matheus de Souza - matheus796 
+Tema: Google Docs  
+
+Capítulo/título do vídeo :  
+1 - Como criar um documento.
+2 - Como compartilhar um documento.  
+3 - Funcionalidades do google docs.
