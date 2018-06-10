@@ -39,3 +39,11 @@ Capítulo/título do vídeo :
 1 - Como criar um documento.
 2 - Como compartilhar um documento.  
 3 - Funcionalidades do google docs.
+
+Grupo 5:   
+---------  
+Componentes: Lucas Sorrentino - lucas-sorrentino 
+Tema: Google Meet/Hangout  
+
+Capítulo/título do vídeo :  
+1 - Criando uma reunião e associando uma sala hangout a ela
