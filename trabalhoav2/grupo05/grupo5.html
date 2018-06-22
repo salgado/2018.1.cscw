@@ -1,0 +1,57 @@
+<HEAD>
+  <script type="text/javascript" src="http://connect.facebook.net/pt_BR/all.js"></script>
+</HEAD>
+<body>
+  <div id="fb-root"></div>
+      <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.0&appId=477692299350928&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+      </script>
+<link rel="stylesheet" href="grupo5.css">
+<nav id="mainNav"> 
+  <a href="#page-one">Introdução</a>|
+  <a href="#page-two">Autores</a>|
+  <a href="#page-three">Vídeo</a>|
+</nav>
+
+<div id="page-one">
+</div>
+<div id="page-two">
+  <div style="text-align: center">
+  <h2 class="title">Autores</h2>
+  <div style="display: inline-block;">
+    <div class="img-circular-lucas"></div>
+    <h3 class="subtitle">Lucas Sorrentino</h3>
+  </div>
+  <div style="display: inline-block;">
+    <div class="img-circular-robson"></div>
+    <h3 class="subtitle">Robson Alfaia</h3>
+  </div>
+  <div style="display: inline-block;">
+    <div class="img-circular-cristiano"></div>on
+    <h3 class="subtitle">Cristiano Barroso</h3>
+  </div>
+</div>
+</div>
+</div>
+<div id="page-three">
+  <h2 class="title">Vídeos</h2>
+  <div class="video">
+    <iframe src="https://www.youtube.com/embed/UCk6SqH7_jE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <p class=content>Tutorial em vídeo explicando como marcar uma reunião utilizando o Google meet e associar uma sala do Google Hangout a ela.</p>
+  </div>
+  <div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/J8GSTJHSDjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <p class=content>Tutorial em vídeo explicando como adicionar pessoas a uma video chamada no hangout.</p>
+  </div>
+</div>
+  <div style="text-align: center">
+     <h2 class="title">Comentários</h2>
+    <div class="fb-comments" data-href="https://cscw-av2.herokuapp.com/" data-numposts="5"></div>  
+  </div>
+</body>

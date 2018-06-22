@@ -1,0 +1,127 @@
+html, body, #page-one, #page-two, #page-three, #page-four {
+  height: auto;
+  min-height: 100vh;
+}
+
+#page-one, #page-two, #page-three, #page-four {
+  padding-top: 2em;
+}
+
+#mainNav {
+  background-color: #668AE4;
+  color: #ddd;
+  line-height: 4em;
+  padding: 0 1em;
+  position: fixed;
+  top: 0em;
+  width: 100%;
+}
+
+#mainNav a, #mainNav a:link, #mainNav a:visited, #mainNav a:hover, #mainNav a:active {
+  color: #eee;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 1em;
+}
+#mainNav a:hover {
+  color: #4861A2;
+}
+
+.title {
+  font-size: 3em;
+  padding-top: 1em;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 2em;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  padding-top: 1em;
+}
+
+.video {
+  padding-top: 3em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.comentarios {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5em;
+}
+
+iframe {
+    width: 1120px;
+    height: 630px;
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+}
+
+.content.mod-autor {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-circular-lucas{
+   width: 300px;
+   height: 300px;
+   background-image: url('img/avatar.jpeg');
+   background-size: cover;
+   display: inline-block;
+   border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+.img-circular-robson{
+   width: 300px;
+   height: 300px;
+   background-image: url('img/robson_avatar.jpeg');
+   background-size: cover;
+   display: inline-block;
+   border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+.img-circular-cristiano{
+   width: 300px;
+   height: 300px;
+   background-image: url('img/cristiano_avatar.jpeg');
+   background-size: cover;
+   display: inline-block;
+   border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+#page-one {
+  background-image: url('img/hangout_laptop.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#page-two {
+  background-color: #ccc;
+}
+
+#page-three {
+  background-color: #fff;
+}
+
+#page-four {
+  background-color: #888;
+}
