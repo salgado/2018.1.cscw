@@ -2,11 +2,6 @@
 
 [Blog Post](http://startbootstrap.com/template-overviews/blog-post/) is a basic blog post HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Preview
-
-[![Blog Post Preview](https://startbootstrap.com/assets/img/templates/blog-post.jpg)](https://blackrockdigital.github.io/startbootstrap-blog-post/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-blog-post/)**
 
 ## Status
 
