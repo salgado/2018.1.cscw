@@ -42,12 +42,8 @@ Capítulo/título do vídeo :
 
 Grupo 5:   
 ---------  
-Grupo 5:   
----------  
-Componentes: Lucas Sorrentino - lucas-sorrentino / Robson Alfaia - robsonalfaia21 / Cristiano Barroso - cristianoobarroso 
+Componentes: Lucas Sorrentino - lucas-sorrentino 
 Tema: Google Meet/Hangout  
 
 Capítulo/título do vídeo :  
 1 - Criando uma reunião e associando uma sala hangout a ela
-2 - Chamando usuários do google para um reunião do Google Hangouts
-2 - Compartilhamento de tela com o Google Hangouts
